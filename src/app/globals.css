@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.ant-menu-overflow{
+    display: flex;
+    justify-content: space-between;
+}
